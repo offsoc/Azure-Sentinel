@@ -3,7 +3,7 @@
 azure-functions
 datetime
 regex
-requests~=2.25.1
+requests~=2.32.3
 msal~=1.9.0
 pytz
 azure-storage-blob
